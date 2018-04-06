@@ -1,0 +1,29 @@
+{
+  "name": "gr",
+  "version": "1.0.0",
+  "description": "Sistema GR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuralComunica/GR.git"
+  },
+  "keywords": [
+    "Sistema",
+    "GR",
+    "gerenciamento",
+    "rural"
+  ],
+  "author": "André Rodrigues (xor)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuralComunica/GR/issues"
+  },
+  "homepage": "https://github.com/RuralComunica/GR#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "react": "^16.3.1"
+  }
+}
